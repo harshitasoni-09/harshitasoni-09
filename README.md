@@ -83,7 +83,7 @@
 - A **secure and efficient transaction management system** for seamless money transfers.
 - **Tech Stack**: Node.js, Express.js, MongoDB, React.js  
 
-### **🔹 [Textile E-commerce Website](https://github.com/harshitasoni-09/textile-ecommerce)**
+### **🔹 [Textile E-commerce Website](https://github.com/harshitasoni-09/Textile-E-commerce-Website)**
 - Shaurya Outfit Uniforms is a premium uniform supplier specializing in high-quality, custom-designed uniforms for various industries. From corporate attire to school uniforms and industrial workwear, we provide durable, comfortable, and stylish solutions tailored to your needs.
 - **Tech Stack**: React.js, Redux, Node.js, Express.js, MongoDB  
 
