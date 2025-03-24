@@ -42,6 +42,13 @@
   <img src="https://img.shields.io/badge/IoT-00A6D6?style=for-the-badge&logo=internet-of-things&logoColor=white" />
 </p>  
 
+### **Simulation & Modeling**  
+<p align="left">
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+</p>
+
+
 ### **☁️ Cloud & DevOps**  
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
