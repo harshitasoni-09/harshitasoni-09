@@ -95,7 +95,7 @@
 - Developed an **Advanced Driver Assistance System (ADAS)** integrating **RTOS and STM processors** with features such as ACC and BSD.
 - **Tech Stack**: C++, Embedded C, RTOS, IoT  
 
-### **🔹 [Portfolio Website](https://github.com/harshitasoni-09/Digital_portfolio?tab=readme-ov-file)**
+### **🔹 [My Digital Portfolio](https://github.com/harshitasoni-09/Digital_portfolio?tab=readme-ov-file)**
 - Personal **portfolio website** showcasing projects and skills.  
 - **Tech Stack**: HTML, CSS, React.js, Bootstrap  
 
