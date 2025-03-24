@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Harshita Soni</h1>  
-<h3 align="center">🚀 Software Engineer | Full Stack Developer | Tech Enthusiast | Associate SAP Consultant </h3>  
+<h3 align="center">🚀 Software Developer | Full Stack Developer | Tech Enthusiast | Associate SAP Consultant </h3>  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harshitasoni-09&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
