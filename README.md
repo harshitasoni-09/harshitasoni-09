@@ -103,7 +103,7 @@
 ## 📬 Connect with Me  
 
 <p align="left">
-  <a href="https://linkedin.com/in/in/harshita-soni-950007271/" target="_blank">
+  <a href="https://linkedin.com/in/harshita-soni-950007271/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>  
   <a href="mailto:harshitasoni701@gmail.com">
